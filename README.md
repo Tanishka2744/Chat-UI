@@ -22,4 +22,3 @@ It focuses on clean UI design, reusable components, and smooth user experience s
 - CSS / Styled Components *(based on implementation)*  
 
 ---
->>>>>>> 4d333808dc2b0fff9131884f2317c8ec45818857
