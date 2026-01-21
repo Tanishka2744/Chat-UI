@@ -92,3 +92,8 @@ npm start
 --- 
                                                   
 ## 🎥 Preview
+![Chat UI](https://github.com/user-attachments/assets/d14572a5-82ec-42c2-817b-4bbd3b612ae4)
+
+--- 
+
+⭐ Feel free to explore the project and connect with me!
